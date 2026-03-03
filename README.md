@@ -1,6 +1,6 @@
 # cloud-engineer-architecture-challenge
 
-## 📄 Deliverable
+## Deliverable
 
 This repository contains the technical challenge deliverable for the Cloud Engineer position.
 
@@ -49,11 +49,11 @@ The proposed solution is a **cloud-native AWS architecture** designed with the f
 
 ---
 
-## 📊 Architecture Diagram
+## Architecture Diagram
 
 The architecture diagram is included in this repository:
 
-- 🖼️ `diagrams/architecture.svg`
+-  `diagrams/architecture.svg`
 
 ---
 
@@ -76,4 +76,6 @@ Future improvements may include:
 
 ---
 
-## 🚀 Author
+## Author
+
+KARLA YOFRACIEL AQUINO MERAN
